@@ -5,6 +5,12 @@
     "license": "MIT",
     "authors": [
         {
+            "name": "Zethus Studio",
+            "email": "info@zethus-studio.ir",
+            "homepage": "zethus-studio.ir",
+            "role": "Developer"
+        },
+        {
             "name": "Aleksa Nikolic",
             "email": "aleksa@codelab.rs"
         }
@@ -18,7 +24,8 @@
         "illuminate/routing": "~7.0.0",
         "illuminate/support": "~7.0.0",
         "piwik/device-detector": "^3.11",
-        "maxmind-db/reader": "^1.4"
+        "maxmind-db/reader": "^1.4",
+        "mongodb/laravel-mongodb": "^4.7"
     },
     "require-dev": {
         "orchestra/testbench": "^3.8"
