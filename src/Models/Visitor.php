@@ -4,9 +4,9 @@ namespace Aleksa\LaravelVisitorsStatistics\Models;
 
 use Carbon\Carbon;
 use Eloquent;
-use Illuminate\Database\Eloquent\Builder;
-use Illuminate\Database\Eloquent\Collection;
-use Illuminate\Database\Eloquent\Model;
+use MongoDB\Laravel\Eloquent\Builder;
+use MongoDB\Laravel\Eloquent\Collection;
+use MongoDB\Laravel\Eloquent\Model;
 use Illuminate\Support\Facades\DB;
 
 /**
