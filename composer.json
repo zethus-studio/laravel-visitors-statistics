@@ -19,11 +19,11 @@
     "require": {
         "php": "^8.0",
         "ext-zlib": "*",
-        "illuminate/http": "~7.0.0",
-        "illuminate/database": "~7.0.0",
-        "illuminate/routing": "~7.0.0",
-        "illuminate/support": "~7.0.0",
-        "piwik/device-detector": "^3.11",
+        "illuminate/http": "^8.12|^9.0|^10.0|^11.0",
+        "illuminate/database": "^8.12|^9.0|^10.0|^11.0",
+        "illuminate/routing": "^8.12|^9.0|^10.0|^11.0",
+        "illuminate/support": "^8.12|^9.0|^10.0|^11.0",
+        "piwik/device-detector": "^6.4.1",
         "maxmind-db/reader": "^1.4",
         "mongodb/laravel-mongodb": "^4.7"
     },
